@@ -1,0 +1,104 @@
+{
+    "quetions": [
+        {
+            "que": "Which of the following is the telephone based shared Service Centre?",
+            "ans": {
+                "a": "Call centre",
+                "b": "ATM",
+                "c": "Phone centre",
+                "d": "None of these",
+                "correct": "a"
+            }
+        },
+        {
+            "que": "A facility that allows the user to speak into a special device while typing a letter using computer is called ___",
+            "ans": {
+                "a": "Speaker",
+                "b": "Dictaphone",
+                "c": "Telephone",
+                "d": "Cell phone",
+                "correct": "b"
+            }
+        },
+        {
+            "que": "BPO may be expanded as ___",
+            "ans": {
+                "a": " Business Process Outsourcing",
+                "b": "Business Product Outsourcing",
+                "c": "Business Process Outcome",
+                "d": "Business Product Outcome",
+                "correct": "c"
+            }
+        },
+        {
+            "que": "Collection, digitization and processing of data is basic function of ____",
+            "ans": {
+                "a": "Call centre",
+                "b": "Data management",
+                "c": "E- Governance",
+                "d": "Data collection",
+                "correct": "b"
+            }
+        },
+        {
+            "que": "Which of the following is an IT enabled service?",
+            "ans": {
+                "a": "Database",
+                "b": "Spreadsheet",
+                "c": "Word processor",
+                "d": "E-Governance",
+                "correct": "d"
+            }
+        },
+        {
+            "que": "ITES stands for ___",
+            "ans": {
+                "a": "Information Technology Entrusted Systems",
+                "b": " Information Technology Extended Services",
+                "c": "Information Technology Enabled Services",
+                "d": "Improving Technology Enlighted Services",
+                "correct": "c"
+            }
+        },
+        {
+            "que": "____ refers to conversion of non-digital material to digital form.",
+            "ans": {
+                "a": "Digitization",
+                "b": "Data transfer",
+                "c": "Transcription",
+                "d": "None of the given",
+                "correct": "a"
+            }
+        },
+        {
+            "que": "Which of the following is not an IT enabled service?",
+            "ans": {
+                "a": "Call centre’s",
+                "b": "E-Governance",
+                "c": "Data digitization",
+                "d": "Word processor",
+                "correct": "d"
+            }
+        },
+        {
+            "que": "A turnkey package includes",
+            "ans": {
+                "a": "Training",
+                "b": "Software",
+                "c": "Hardware",
+                "d": " All of these",
+                "correct": "d"
+            }
+        },
+        {
+            "que": "A channel for communicating across a boundary between two or more subsystem  is known as",
+            "ans": {
+                "a": "Data path",
+                "b": "Walk through",
+                "c": "Act gram",
+                "d": "Interface",
+                "correct": "d"
+            }
+        }
+    ]
+}
