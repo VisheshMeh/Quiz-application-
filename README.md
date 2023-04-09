@@ -16,13 +16,12 @@ Note : single question will be popup on the screen and users can either answer o
 
 Against each question, store the question and answer in local storage and display the report card at the end of the quiz.
 
-## Tech Stacks Used :- 
+## Tech Stacks Used :-
 
 HTML, CSS, Javascript
 
-## Author :- 
- 
- Vishesh Mehrotra
-  
+## Author :-
 
-
+Vishesh Mehrotra
++91 9146262833
+meh.vishesh1998@gmail.com
