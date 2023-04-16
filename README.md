@@ -1,4 +1,4 @@
-# SalesKen Technical Assignment
+# Quiz application
 
 Create an UI Application with following page
 Login Page
